@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/confirmation_002.ogg-1bb8d072320a31dc0829bfc6815d5deb.oggstr"
+
+[deps]
+
+source_file="res://Assets/Moneda/confirmation_002.ogg"
+dest_files=[ "res://.import/confirmation_002.ogg-1bb8d072320a31dc0829bfc6815d5deb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
